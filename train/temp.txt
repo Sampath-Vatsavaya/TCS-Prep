@@ -1,0 +1,927 @@
+Statement 1
+<!DOCTYPE html>  
+Invalid statement
+Statement 2
+<html lang="en">  
+Invalid statement
+Statement 3
+<head>  
+Invalid statement
+Statement 4
+    <meta charset="UTF-8">  
+Invalid statement
+Statement 5
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+Invalid statement
+Statement 6
+    <title>User Portal</title>  
+Invalid statement
+Statement 7
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">  
+Invalid statement
+Statement 8
+    <style>  
+Invalid statement
+Statement 9
+        .nav-link.active {  
+Invalid statement
+Statement 10
+            font-weight: bold;  
+Invalid statement
+Statement 11
+        }  
+Invalid statement
+Statement 12
+        .container {  
+Invalid statement
+Statement 13
+            margin-top: 20px;  
+Invalid statement
+Statement 14
+        }  
+Invalid statement
+Statement 15
+        .card {  
+Invalid statement
+Statement 16
+            margin-bottom: 20px;  
+Invalid statement
+Statement 17
+        }  
+Invalid statement
+Statement 18
+    </style>  
+Invalid statement
+Statement 19
+</head>  
+Invalid statement
+Statement 20
+<body>  
+Invalid statement
+Statement 21
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">  
+Invalid statement
+Statement 22
+        <a class="navbar-brand" href="#">User Portal</a>  
+Invalid statement
+Statement 23
+        <div class="" id="navbarNav">  
+Invalid statement
+Statement 24
+            <ul id="navl" class="navbar-nav">  
+Invalid statement
+Statement 25
+                <li class="nav-item">  
+Invalid statement
+Statement 26
+                    <a id="home-nav" class="nav-link active" href="">Home</a>  
+Invalid statement
+Statement 27
+                </li>  
+Invalid statement
+Statement 28
+                <li   class="nav-item">  
+Invalid statement
+Statement 29
+                   <a id="bookticket-nav" class="nav-link active" href="">Book Ticket</a>  
+Invalid statement
+Statement 30
+                </li>  
+Invalid statement
+Statement 31
+                <li class="nav-item">  
+Invalid statement
+Statement 32
+                    <a id="viewticket-nav" class="nav-link" href="">View Tickets</a>  
+Invalid statement
+Statement 33
+                </li>  
+Invalid statement
+Statement 34
+                <li class="nav-item">  
+Invalid statement
+Statement 35
+                    <a id="updatedetails-nav" class="nav-link" href="">Update Details</a>  
+Invalid statement
+Statement 36
+                </li>  
+Invalid statement
+Statement 37
+            </ul>  
+Invalid statement
+Statement 38
+	  <ul class="navbar-nav"> 
+Invalid statement
+Statement 39
+	<li class="nav-item">  
+Invalid statement
+Statement 40
+                    <a id="logout" class="nav-link" href="login.html">Logout</a>  
+Invalid statement
+Statement 41
+                </li> 
+Invalid statement
+Statement 42
+		</ul> 
+Invalid statement
+Statement 43
+        </div>  
+Invalid statement
+Statement 44
+    </nav>  
+Invalid statement
+Statement 45
+    <div class="container">  
+Invalid statement
+Statement 46
+        <div id="home" class="tab-content">  
+Invalid statement
+Statement 47
+            <h2>Home</h2>  
+Invalid statement
+Statement 48
+            <div class="card">  
+Invalid statement
+Statement 49
+                <div class="card-body">  
+Invalid statement
+Statement 50
+                    <h5 class="card-title">Aggregate Table Section</h5>  
+Invalid statement
+Statement 51
+                    <table class="table table-bordered">  
+Invalid statement
+Statement 52
+                        <thead>  
+Invalid statement
+Statement 53
+                            <tr>  
+Invalid statement
+Statement 54
+                                <th>Class</th>  
+Invalid statement
+Statement 55
+                                <th>Number of Tickets Booked</th>  
+Invalid statement
+Statement 56
+                            </tr>  
+Invalid statement
+Statement 57
+                        </thead>  
+Invalid statement
+Statement 58
+                        <tbody>  
+Invalid statement
+Statement 59
+                            <tr>  
+Invalid statement
+Statement 60
+                                <td>First Class</td>  
+Invalid statement
+Statement 61
+                                <td>20</td>  
+Invalid statement
+Statement 62
+                            </tr>  
+Invalid statement
+Statement 63
+                            <tr>  
+Invalid statement
+Statement 64
+                                <td>A.C Tier 1</td>  
+Invalid statement
+Statement 65
+                                <td>15</td>  
+Invalid statement
+Statement 66
+                            </tr>  
+Invalid statement
+Statement 67
+                            <tr>  
+Invalid statement
+Statement 68
+                                <td>A.C Tier 2</td>  
+Invalid statement
+Statement 69
+                                <td>30</td>  
+Invalid statement
+Statement 70
+                            </tr>  
+Invalid statement
+Statement 71
+                        </tbody>  
+Invalid statement
+Statement 72
+                    </table>  
+Invalid statement
+Statement 73
+                </div>  
+Invalid statement
+Statement 74
+            </div>  
+Invalid statement
+Statement 75
+            <div class="card">  
+Invalid statement
+Statement 76
+                <div class="card-body">  
+Invalid statement
+Statement 77
+                    <h5 class="card-title">Sales Done Per Quarter</h5>  
+Invalid statement
+Statement 78
+                    <table class="table table-bordered">  
+Invalid statement
+Statement 79
+                        <thead>  
+Invalid statement
+Statement 80
+                            <tr>  
+Invalid statement
+Statement 81
+                                <th>Quarter</th>  
+Invalid statement
+Statement 82
+                                <th>Sales</th>  
+Invalid statement
+Statement 83
+                            </tr>  
+Invalid statement
+Statement 84
+                        </thead>  
+Invalid statement
+Statement 85
+                        <tbody>  
+Invalid statement
+Statement 86
+                            <tr>  
+Invalid statement
+Statement 87
+                                <td>Q1</td>  
+Invalid statement
+Statement 88
+                                <td>$5000</td>  
+Invalid statement
+Statement 89
+                            </tr>  
+Invalid statement
+Statement 90
+                            <tr>  
+Invalid statement
+Statement 91
+                                <td>Q2</td>  
+Invalid statement
+Statement 92
+                                <td>$7000</td>  
+Invalid statement
+Statement 93
+                            </tr>  
+Invalid statement
+Statement 94
+                            <tr>  
+Invalid statement
+Statement 95
+                                <td>Q3</td>  
+Invalid statement
+Statement 96
+                                <td>$8000</td>  
+Invalid statement
+Statement 97
+                            </tr>  
+Invalid statement
+Statement 98
+                            <tr>  
+Invalid statement
+Statement 99
+                                <td>Q4</td>  
+Invalid statement
+Statement 100
+                                <td>$9000</td>  
+Invalid statement
+Statement 101
+                            </tr>  
+Invalid statement
+Statement 102
+                        </tbody>  
+Invalid statement
+Statement 103
+                    </table>  
+Invalid statement
+Statement 104
+                </div>  
+Invalid statement
+Statement 105
+            </div>  
+Invalid statement
+Statement 106
+        </div>  
+Invalid statement
+Statement 107
+        <div id="bookticket-section" class="tab-content" style="display:none;">  
+Invalid statement
+Statement 108
+            <h2>Book Your Ticket:</h2>  
+Invalid statement
+Statement 109
+            <form id="trainForm" class="needs-validation" novalidate>  
+Invalid statement
+Statement 110
+                <div class="form-group">  
+Invalid statement
+Statement 111
+                    <label for="trainName">ID:</label>  
+Invalid statement
+Statement 112
+                    <input type="text"  readonly class="form-control" id="trainName" name="trainName" required>  
+Invalid statement
+Statement 113
+                    <div class="invalid-feedback">Please enter a train name.</div>  
+Invalid statement
+Statement 114
+                </div>  
+Invalid statement
+Statement 115
+                <div class="form-group">  
+Invalid statement
+Statement 116
+                    <label for="numberOfSeats">Name:</label>  
+Invalid statement
+Statement 117
+                    <input type="text" class="form-control" id="numberOfSeats" name="numberOfSeats" required>  
+Invalid statement
+Statement 118
+                    <div class="invalid-feedback">Please enter the number of seats.</div>  
+Invalid statement
+Statement 119
+                </div>  
+Invalid statement
+Statement 120
+                <div class="form-group">  
+Invalid statement
+Statement 121
+                    <label for="destinationTo">Mobile:</label>  
+Invalid statement
+Statement 122
+                    <input type="text" class="form-control" id="destinationTo" name="destinationTo" required>  
+Invalid statement
+Statement 123
+                    <div class="invalid-feedback">Please enter the destination.</div>  
+Invalid statement
+Statement 124
+                </div>  
+Invalid statement
+Statement 125
+                <div class="form-group">  
+Invalid statement
+Statement 126
+                    <label for="destinationFrom">Age:</label>  
+Invalid statement
+Statement 127
+                    <input type="number" class="form-control" id="destinationFrom" name="destinationFrom" required>  
+Invalid statement
+Statement 128
+                    <div class="invalid-feedback">Please enter the origin.</div>  
+Invalid statement
+Statement 129
+                </div>  
+Invalid statement
+Statement 130
+                <div class="form-group">  
+Invalid statement
+Statement 131
+                    <label for="ownership">Date:</label>  
+Invalid statement
+Statement 132
+                    <input type="date" class="form-control" id="ownership" name="ownership" required>  
+Invalid statement
+Statement 133
+                    <div class="invalid-feedback">Please enter the ownership details.</div>  
+Invalid statement
+Statement 134
+                </div>  
+Invalid statement
+Statement 135
+                <div class="form-group">  
+Invalid statement
+Statement 136
+                    <label for="ownership">Boarding Station:</label>  
+Invalid statement
+Statement 137
+                    <input type="text" class="form-control" id="ownership" name="ownership" required>  
+Invalid statement
+Statement 138
+                    <div class="invalid-feedback">Please enter the ownership details.</div>  
+Invalid statement
+Statement 139
+                </div>  
+Invalid statement
+Statement 140
+                <div class="form-group">  
+Invalid statement
+Statement 141
+                    <label for="ownership">Ticket Category:</label>  
+Invalid statement
+Statement 142
+                    <select name="ticketcategory"  class="form-control" id="ticketcategory"> 
+Invalid statement
+Statement 143
+                        <option value="firstclass">First Class</option> 
+Invalid statement
+Statement 144
+                        <option value="actier1">A.C Tier 1</option> 
+Invalid statement
+Statement 145
+                        <option value="actier2">A.C Tier 2</option> 
+Invalid statement
+Statement 146
+                        <option value="tatkal">Tatkal</option> 
+Invalid statement
+Statement 147
+                    </select> 
+Invalid statement
+Statement 148
+                    <!-- <input type="text" class="form-control" id="ownership" name="ownership" required>  --> 
+Invalid statement
+Statement 149
+                    <div class="invalid-feedback">Please enter the ownership details.</div>  
+Invalid statement
+Statement 150
+                </div>  
+Invalid statement
+Statement 151
+                <div class="form-group">  
+Invalid statement
+Statement 152
+                    <label for="trainsavailable">Trains Available:</label>  
+Invalid statement
+Statement 153
+                    <select name="trainsavailable" class="form-control" id="trainsavailable"> 
+Invalid statement
+Statement 154
+                        <option value="firstclass">First Class</option> 
+Invalid statement
+Statement 155
+                        <option value="actier1">A.C Tier 1</option> 
+Invalid statement
+Statement 156
+                        <option value="actier2">A.C Tier 2</option> 
+Invalid statement
+Statement 157
+                        <option value="tatkal">Tatkal</option> 
+Invalid statement
+Statement 158
+                    </select> 
+Invalid statement
+Statement 159
+                    <!-- <input type="text" class="form-control" id="ownership" name="ownership" required>  --> 
+Invalid statement
+Statement 160
+                    <div class="invalid-feedback">Please enter the ownership details.</div>  
+Invalid statement
+Statement 161
+                </div>  
+Invalid statement
+Statement 162
+                <div class="form-group">  
+Invalid statement
+Statement 163
+                    <label for="ownership">Number of Tickets:</label>  
+Invalid statement
+Statement 164
+                    <input type="number" class="form-control" id="ownership" name="ownership" required>  
+Invalid statement
+Statement 165
+                    <div class="invalid-feedback">Please enter the ownership details.</div>  
+Invalid statement
+Statement 166
+                </div>  
+Invalid statement
+Statement 167
+                <button type="submit" onclick="submitpop()" class="btn btn-primary">Submit</button>  
+Invalid statement
+Statement 168
+            </form>  
+Invalid statement
+Statement 169
+        </div>  
+Invalid statement
+Statement 170
+        <div id="updatedetails-section" class="tab-content" style="display:none;">  
+Invalid statement
+Statement 171
+            <h2>Update Profile:</h2>  
+Invalid statement
+Statement 172
+            <form id="trainForm" class="needs-validation" novalidate>  
+Invalid statement
+Statement 173
+                <div class="form-group">  
+Invalid statement
+Statement 174
+                    <label for="mail">Email:</label>  
+Invalid statement
+Statement 175
+                    <input type="email"  class="form-control" id="trainName" name="trainName" required>  
+Invalid statement
+Statement 176
+                    <div class="invalid-feedback">Please enter a train name.</div>  
+Invalid statement
+Statement 177
+                </div>  
+Invalid statement
+Statement 178
+                <div class="form-group">  
+Invalid statement
+Statement 179
+                    <label for="destinationTo">Mobile:</label>  
+Invalid statement
+Statement 180
+                    <input type="text" class="form-control" id="destinationTo" name="destinationTo" required>  
+Invalid statement
+Statement 181
+                    <div class="invalid-feedback">Please enter the destination.</div>  
+Invalid statement
+Statement 182
+                </div>  
+Invalid statement
+Statement 183
+                <div class="form-group">  
+Invalid statement
+Statement 184
+                    <label for="destinationFrom">Address:</label>  
+Invalid statement
+Statement 185
+                    <input type="text" class="form-control" id="destinationFrom" name="destinationFrom" required>  
+Invalid statement
+Statement 186
+                    <div class="invalid-feedback">Please enter the origin.</div>  
+Invalid statement
+Statement 187
+                </div>  
+Invalid statement
+Statement 188
+                <div id="passcheck" class="form-group">  
+Invalid statement
+Statement 189
+                    <label for="destinationFrom">Change Password:</label>  
+Invalid statement
+Statement 190
+                    <input type="checkbox" onclick="checkpass()" name="changepass" id="changepass">  
+Invalid statement
+Statement 191
+                    <div class="invalid-feedback">Please enter the origin.</div>  
+Invalid statement
+Statement 192
+                </div>  
+Invalid statement
+Statement 193
+                <div id="password-div" style="display: none;"> 
+Invalid statement
+Statement 194
+                    <div class="form-group">  
+Invalid statement
+Statement 195
+                        <label for="ownership">Current Password:</label>  
+Invalid statement
+Statement 196
+                        <input type="password" class="form-control" id="ownership" name="ownership" required>  
+Invalid statement
+Statement 197
+                        <div class="invalid-feedback">Please enter the ownership details.</div>  
+Invalid statement
+Statement 198
+                    </div>  
+Invalid statement
+Statement 199
+                    <div class="form-group">  
+Invalid statement
+Statement 200
+                        <label for="ownership">New Password:</label>  
+Invalid statement
+Statement 201
+                        <input type="password" class="form-control" id="ownership" name="ownership" required>  
+Invalid statement
+Statement 202
+                        <div class="invalid-feedback">Please enter the ownership details.</div>  
+Invalid statement
+Statement 203
+                    </div>  
+Invalid statement
+Statement 204
+                    <div class="form-group">  
+Invalid statement
+Statement 205
+                        <label for="ownership">Confirm Password:</label>  
+Invalid statement
+Statement 206
+                        <input type="password" class="form-control" id="ownership" name="ownership" required>  
+Invalid statement
+Statement 207
+                        <div class="invalid-feedback">Please enter the ownership details.</div>  
+Invalid statement
+Statement 208
+                    </div>  
+Invalid statement
+Statement 209
+                </div> 
+Invalid statement
+Statement 210
+                <button type="submit" onclick="submitpop()" class="btn btn-primary">Submit</button>  
+Invalid statement
+Statement 211
+            </form>  
+Invalid statement
+Statement 212
+        </div> 
+Invalid statement
+Statement 213
+        <div id="viewticket-section" class="tab-content" style="display:none;">  
+Invalid statement
+Statement 214
+            <div class="card">  
+Invalid statement
+Statement 215
+                <div class="card-body">  
+Invalid statement
+Statement 216
+                    <h5 class="card-title">Client Information</h5>  
+Invalid statement
+Statement 217
+                    <table class="table table-bordered">  
+Invalid statement
+Statement 218
+                        <thead>  
+Invalid statement
+Statement 219
+                            <tr>  
+Invalid statement
+Statement 220
+                                <th>Ticket ID</th>  
+Invalid statement
+Statement 221
+                                <th>Train ID</th>  
+Invalid statement
+Statement 222
+                                <th>User ID</th>  
+Invalid statement
+Statement 223
+                                <th>User Name</th>  
+Invalid statement
+Statement 224
+				                <th>Boarding Station</th>  
+Invalid statement
+Statement 225
+                                <th>Destination Station</th>  
+Invalid statement
+Statement 226
+                                <th>Boarding Date and Time</th> 
+Invalid statement
+Statement 227
+                                <th>Arrival Date and Time</th>  
+Invalid statement
+Statement 228
+                                <th>Number of Tickets</th>  
+Invalid statement
+Statement 229
+                                <th>Cancel Ticket</th> 
+Invalid statement
+Statement 230
+                            </tr>  
+Invalid statement
+Statement 231
+                        </thead>  
+Invalid statement
+Statement 232
+                        <tbody>  
+Invalid statement
+Statement 233
+                            <tr>  
+Invalid statement
+Statement 234
+                                <td>1234</td> 
+Invalid statement
+Statement 235
+                                <td>1234</td> 
+Invalid statement
+Statement 236
+                                <td>1234</td> 
+Invalid statement
+Statement 237
+                                <td>Sampath</td> 
+Invalid statement
+Statement 238
+                                <td>Mumbai</td> 
+Invalid statement
+Statement 239
+                                <td>Pune</td> 
+Invalid statement
+Statement 240
+                                <td>12-07-2024 10:30 AM</td> 
+Invalid statement
+Statement 241
+                                <td>12-07-2024 1:30 PM</td> 
+Invalid statement
+Statement 242
+                                <td>2</td> 
+Invalid statement
+Statement 243
+                                <td><button class="btn btn-danger">Delete</button></td>  
+Invalid statement
+Statement 244
+                            </tr>  
+Invalid statement
+Statement 245
+                            <tr>  
+Invalid statement
+Statement 246
+                                <td>4567</td> 
+Invalid statement
+Statement 247
+                                <td>4567</td> 
+Invalid statement
+Statement 248
+                                <td>4567</td> 
+Invalid statement
+Statement 249
+                                <td>Vatsavaya</td> 
+Invalid statement
+Statement 250
+                                <td>Mumbai</td> 
+Invalid statement
+Statement 251
+                                <td>Pune</td> 
+Invalid statement
+Statement 252
+                                <td>12-07-2024 10:30 AM</td> 
+Invalid statement
+Statement 253
+                                <td>12-07-2024 1:30 PM</td> 
+Invalid statement
+Statement 254
+                                <td>3</td> 
+Invalid statement
+Statement 255
+                                <td><button class="btn btn-danger">Delete</button></td>  
+Invalid statement
+Statement 256
+                            </tr>  
+Invalid statement
+Statement 257
+                        </tbody>  
+Invalid statement
+Statement 258
+                    </table>  
+Invalid statement
+Statement 259
+                </div>  
+Invalid statement
+Statement 260
+            </div>  
+Invalid statement
+Statement 261
+        </div>  
+Invalid statement
+Statement 262
+        <div id="logout" class="tab-content" style="display:none;">  
+Invalid statement
+Statement 263
+            <h2>Logout</h2>  
+Invalid statement
+Statement 264
+            <p>You have been logged out. <a href="login.html">Click here</a> to log in again.</p>  
+Invalid statement
+Statement 265
+        </div>  
+Invalid statement
+Statement 266
+    </div>  
+Invalid statement
+Statement 267
+    <script > 
+Invalid statement
+Statement 268
+      const navl= document.querySelector("#navl"); 
+Invalid statement
+Statement 269
+      const home=document.querySelector("#home");  
+Invalid statement
+Statement 270
+      const viewticket=document.querySelector("#viewticket-section"); 
+Invalid statement
+Statement 271
+      const bookticket = document.querySelector("#bookticket-section"); 
+Invalid statement
+Statement 272
+      const updatedetails= document.querySelector("#updatedetails-section"); 
+Invalid statement
+Statement 273
+      const changepass=document.querySelector("#changepass") 
+Invalid statement
+Statement 274
+      const passdiv= document.querySelector("#password-div"); 
+Invalid statement
+Statement 275
+      navl.addEventListener("click",(e)=>{ 
+Invalid statement
+Statement 276
+	e.preventDefault(); 
+Invalid statement
+Statement 277
+	home.style.display="none"; 
+Invalid statement
+Statement 278
+	bookticket.style.display="none"; 
+Invalid statement
+Statement 279
+	viewticket.style.display="none"; 
+Invalid statement
+Statement 280
+	console.log(e.target) 
+Invalid statement
+Statement 281
+    checkpass = () =>{ 
+Invalid statement
+Statement 282
+	if(changepass.checked){ 
+Invalid statement
+Statement 283
+		passdiv.style.display="block" 
+Invalid statement
+Statement 284
+	} 
+Invalid statement
+Statement 285
+	else{ 
+Invalid statement
+Statement 286
+		passdiv.style.display="none" 
+Invalid statement
+Statement 287
+	} 
+Invalid statement
+Statement 288
+    } 
+Invalid statement
+Statement 289
+	if(e.target.id=="home-nav") 
+Invalid statement
+Statement 290
+	{	 
+Invalid statement
+Statement 291
+		home.style.display="block"; 
+Invalid statement
+Statement 292
+	} 
+Invalid statement
+Statement 293
+        if(e.target.id=="bookticket-nav") 
+Invalid statement
+Statement 294
+        {	 
+Invalid statement
+Statement 295
+		bookticket.style.display="block"; 
+Invalid statement
+Statement 296
+          home.style.display="none"; 
+Invalid statement
+Statement 297
+        } 
+Invalid statement
+Statement 298
+	if(e.target.id=="viewticket-nav") 
+Invalid statement
+Statement 299
+        {	home.style.display="none"; 
+Invalid statement
+Statement 300
+		viewticket.style.display="block"; 
+Invalid statement
+Statement 301
+        } 
+Invalid statement
+Statement 302
+    if(e.target.id=="updatedetails-nav") { 
+Invalid statement
+Statement 303
+        home.style.display="none"; 
+Invalid statement
+Statement 304
+        updatedetails.style.display="block"; 
+Invalid statement
+Statement 305
+    }   
+Invalid statement
+Statement 306
+    }) 
+Invalid statement
+Statement 307
+    </script>  
+Invalid statement
+Statement 308
+</body>  
+Invalid statement
+Statement 309
+</html> 
+Invalid statement

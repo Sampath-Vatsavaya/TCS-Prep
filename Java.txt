@@ -1,0 +1,5 @@
+Data Types
+Types of Variables
+Type Conversion and Type casting
+Decimal Format
+Enum - .Ordinal() - returns the index of the value in the Enum pre-defined values, .values() - returns an array containing all the predefined values , Enum Class, Enum Switch, Enum If
